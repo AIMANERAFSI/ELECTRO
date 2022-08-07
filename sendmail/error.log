@@ -1,0 +1,27 @@
+22/06/29 04:36:48 : Socket Error # 11001<EOL>Host not found.
+22/06/29 04:39:34 : Socket Error # 11001<EOL>Host not found.
+22/06/29 05:10:01 : Socket Error # 11001<EOL>Host not found.
+22/06/29 05:12:17 : Socket Error # 11001<EOL>Host not found.
+22/06/29 05:12:25 : Socket Error # 11001<EOL>Host not found.
+22/06/29 05:12:39 : Socket Error # 11001<EOL>Host not found.
+22/06/29 05:12:51 : Socket Error # 11001<EOL>Host not found.
+22/06/29 05:13:54 : Socket Error # 11001<EOL>Host not found.
+22/06/29 05:20:50 : Username and Password not accepted. Learn more at<EOL> https://support.google.com/mail/?p=BadCredentials q20-20020a7bce94000000b0039c4b518df4sm2113606wmj.5 - gsmtp<EOL>
+22/06/29 05:23:21 : Application-specific password required. Learn more at<EOL> https://support.google.com/mail/?p=InvalidSecondFactor az21-20020adfe195000000b0021b8a78fba3sm14850184wrb.95 - gsmtp<EOL>
+22/06/29 05:36:49 : Username and Password not accepted. Learn more at<EOL> https://support.google.com/mail/?p=BadCredentials p12-20020adfcc8c000000b0020d0c9c95d3sm15696826wrj.77 - gsmtp<EOL>
+22/06/29 05:38:25 : Username and Password not accepted. Learn more at<EOL> https://support.google.com/mail/?p=BadCredentials r16-20020a05600c35d000b003a0375c4f73sm1650717wmq.44 - gsmtp<EOL>
+22/06/29 05:41:35 : Application-specific password required. Learn more at<EOL> https://support.google.com/mail/?p=InvalidSecondFactor f15-20020a05600c154f00b003a032c88877sm1993528wmg.15 - gsmtp<EOL>
+22/06/29 05:47:43 : Username and Password not accepted. Learn more at<EOL> https://support.google.com/mail/?p=BadCredentials 190-20020a1c19c7000000b003a04912351fsm1737562wmz.17 - gsmtp<EOL>
+22/06/29 05:48:20 : Username and Password not accepted. Learn more at<EOL> https://support.google.com/mail/?p=BadCredentials b17-20020adfe651000000b0021004d7d75asm15104524wrn.84 - gsmtp<EOL>
+22/06/29 16:09:40 : Username and Password not accepted. Learn more at<EOL> https://support.google.com/mail/?p=BadCredentials v192-20020a1cacc9000000b003975c7058bfsm3518340wme.12 - gsmtp<EOL>
+22/06/29 16:21:30 : Application-specific password required. Learn more at<EOL> https://support.google.com/mail/?p=InvalidSecondFactor c18-20020a05600c149200b003a04c74efd1sm3439997wmh.21 - gsmtp<EOL>
+22/06/30 16:08:50 : Message is missing recipient's address
+22/06/30 19:08:26 : Socket Error # 11001<EOL>Host not found.
+22/07/02 11:44:10 : Connect timed out.
+22/07/02 11:51:13 : Connect timed out.
+22/07/02 11:52:59 : Connect timed out.
+22/07/02 11:54:32 : Connect timed out.
+22/07/17 12:04:07 : Connect timed out.
+22/07/17 12:35:23 : Connect timed out.
+22/07/17 12:38:01 : Connect timed out.
+22/07/30 03:36:11 : Message is missing recipient's address

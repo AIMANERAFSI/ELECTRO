@@ -1,0 +1,71 @@
+
+ .col-md-3 {
+    width: 50%;
+}
+
+
+
+  .topnav input[type=text] {
+    padding: 6px;
+    margin-top: 8px;
+    font-size: 14px;
+    border: none;
+    width:120px;
+    border-radius: 49PX 53PX 36PX;
+    text-align: center;
+  }
+  
+  .topnav input[type=password] {
+    padding: 6px;
+    margin-top: 8px;
+    font-size: 14px;
+    border: none;
+    width:120px;
+    border-radius: 49PX 53PX 36PX;
+    text-align: center;
+  }
+
+  .topnav .login-container button {
+    float: right;
+    padding: 6px 10px;
+    margin-top: 8px;
+    margin-right: px;
+    background-color: #d90429;
+    color: #15161d;
+    font-size: 13px;
+    border: none;
+    cursor: pointer;
+    border-radius: 17PX;
+  }
+  
+  .topnav .login-container button:hover {
+    background-color: #bf14314d;
+  }
+  
+  @media screen and (max-width: 600px) {
+    .topnav .login-container {
+      float: none;
+    }
+    .topnav a, .topnav input[type=text], .topnav .login-container button {
+      float: none;
+      display: block;
+     
+      width: 130%;
+      margin: 0;
+      padding: 14px;
+    }
+
+    .topnav a, .topnav input[type=password], .topnav .login-container button {
+        float: none;
+        display: block;
+        
+        width: 130%;
+        margin: 0;
+        padding: 14px;
+      } 
+      
+    
+    
+    
+    }
+    

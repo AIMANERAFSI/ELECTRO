@@ -1,0 +1,47 @@
+.btn-link, .btn-link:active, .btn-link:focus, .btn-link:hover {
+    border-color: #1e1f29;
+}
+.btn-link:focus, .btn-link:hover {
+    color: #d10024;
+    text-decoration: none;
+    background-color: #1e1f29;
+}
+.btn-link {
+    font-weight: 400;
+    color: #fdfdfd;
+    border-radius: 0;
+}
+	 
+.btn-link, .btn-link.active, .btn-link:active, .btn-link[disabled], fieldset[disabled] .btn-link {
+    background-color: #1e1f29;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+
+.btn-primary{
+    color: #2b2d42;
+    background-color: #ffffff;
+    border-color: #ffffff;
+    font-size: 16px;
+    padding: 6px 30px;
+    border-radius: 10px;
+    font-family: Arial, sans-serif;
+  
+    
+}
+.btn-primary:hover{
+    color: #2b2d42;
+    background-color: #D10024;
+    border-color: #ffffff;
+    font-size: 16px;
+    padding: 6px 30px;
+    border-radius: 10px;
+    
+}
+
+.row {
+    margin-right: 15px;
+    margin-left: 15px;
+}
+
+
